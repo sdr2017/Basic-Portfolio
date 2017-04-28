@@ -23,7 +23,7 @@ h2 {font-size: 24px;
  	border-top: 0px;
  	border-left: 0px;
  	border-right: 0px;
-	border-color: #dddddd; 
+	border-color: #cccccc; 
 	border-style: solid; 
   }
 
@@ -61,6 +61,11 @@ h2 {font-size: 24px;
 
 .content {
 	width: 650px;
+	height: 480px;
+	background-color: #ffffff;
+	border-style: solid;
+	border-color: #dddddd;
+	border-width: 1px;
 }
 
 .connect {
