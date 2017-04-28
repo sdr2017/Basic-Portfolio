@@ -9,8 +9,13 @@ h1 {
 h2 {font-size: 24px;
 	font-family: 'Georgia', 'Times', 'Times New Roman', serif;
 	color: #4aaaa5;
-	padding: 10px;
+	padding-top: 30px;
  }
+
+h3 {font-family: 'Georgia', 'Times', 'Times New Roman', serif;
+	color: #4aaaa5;
+
+}
 
  header {
  	height: 90px;
@@ -80,6 +85,11 @@ h2 {font-size: 24px;
 .connect {
 	width: 270px;
 	height: 200px;
+	float: right;
+	background-color: #ffffff;
+	border-style: solid;
+	border-color: #dddddd;
+	border-width: 1px;
 }
 
 .icon {
@@ -89,5 +99,16 @@ h2 {font-size: 24px;
 
 #pic {
 	width: 200px;
+	height: 150px;
+	overflow: hidden;
+	clip: rect(0px,200px,150px,0px);
 	float: left;
+	padding-right: 30px;
+	padding-top: 20px;
+}
+
+#about-line {
+	border-width: 3px;
+	border-color: #dddddd;
+	margin-bottom: 30px;
 }
