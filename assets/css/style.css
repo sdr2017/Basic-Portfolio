@@ -14,7 +14,7 @@ h2 {font-size: 24px;
 
 h3 {font-family: 'Georgia', 'Times', 'Times New Roman', serif;
 	color: #4aaaa5;
-
+	text-align: center;
 }
 
  header {
@@ -83,18 +83,24 @@ h3 {font-family: 'Georgia', 'Times', 'Times New Roman', serif;
 }
 
 .connect {
-	width: 270px;
-	height: 200px;
+	width: 210px;
+	height: 140px;
 	float: right;
 	background-color: #ffffff;
 	border-style: solid;
 	border-color: #dddddd;
 	border-width: 1px;
+	padding: 30px;
 }
 
 .icon {
 	width: 60px;
 	height: 60px;
+}
+
+#icon-group {
+	display: inline-block;
+	margin: auto;
 }
 
 #pic {
