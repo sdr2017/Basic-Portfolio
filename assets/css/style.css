@@ -24,6 +24,16 @@ h2 {font-size: 24px;
 	border-style: solid; 
   }
 
+ #header {
+ 	height: 90px;
+ 	width: 250px;
+ 	background-color: #4aaaa5;
+ 	margin-left: 156px;
+ 	margin-top: 0px;
+ 	position: fixed;
+ 	top: 0;
+ }
+
 .wrapper {
 	width: 960px;
 }
