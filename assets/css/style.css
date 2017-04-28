@@ -1,3 +1,17 @@
+h1 {
+	font-size: 24px;
+	font-family: 'Georgia', 'Times', 'Times New Roman', serif;
+}
+
+h2 {font-size: 24px;
+	font-family: 'Georgia', 'Times', 'Times New Roman', serif;
+ }
+
+ header {
+ 	height: 90px;
+ 	color: #ffffff;
+ }
+
 .wrapper {
 	width: 960px;
 }
