@@ -73,10 +73,11 @@ footer {
 
 .wrapper {
 	width: 960px;
-	margin: auto;
+	margin-left: 156px;
 }
 
 .content {
+	float: left;
 	width: 590px;
 	height: 420px;
 	background-color: #ffffff;
@@ -87,8 +88,6 @@ footer {
 	color: #777777;
 	font-size: 16px;
 	line-height: 32px;
-	margin-left: 156px;
-	margin-top: 40px;
 	padding: 30px;
 }
 
