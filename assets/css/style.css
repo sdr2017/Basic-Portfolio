@@ -18,11 +18,13 @@ h3 {font-family: 'Georgia', 'Times', 'Times New Roman', serif;
 }
 
 header {
+	position: absolute;
+	left: 0;
+	top: 0;
  	height: 90px;
  	background-color: #ffffff;
  	margin: 0px;
  	padding: 0px;
- 	position: fixed;
  	top: 0;
 	right: 0;
 	left: 0;
@@ -50,8 +52,8 @@ footer {
  	text-align: center;
  	margin-left: 156px;
  	margin-top: 0px;
- 	position: fixed;
  	top: 0;
+ 	display: inline-block;
  }
 
  #menu {
@@ -76,6 +78,7 @@ footer {
 }
 
 .content {
+	display: inline-block;
 	width: 590px;
 	height: 420px;
 	background-color: #ffffff;
@@ -92,6 +95,7 @@ footer {
 }
 
 .connect {
+	display: inline-block;
 	width: 210px;
 	height: 140px;
 	float: right;
