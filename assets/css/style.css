@@ -152,10 +152,24 @@ h3 {
 /* POTFOLIO PAGE */
 
 .projects {
-	width: 205px;
-	height: 275px;
+	width: 275px;
+	height: 205px;
 	background-color: #777;
-	margin: 40px;
+	margin: 0px;
 	float: left;
+	position: relative;
+}
+
+.title {
+	font-family: 'Georgia', 'Times', 'Times New Roman', serif;
+	font-size: 22px;
+	color: #fff;
+	text-align: center;
+	line-height: 20px;
+	width: 275px;
+	height: 60px;
+	background-color: #4aaaa5;
+	position: absolute;
+	top: 136px;
 }
 
