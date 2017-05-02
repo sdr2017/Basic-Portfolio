@@ -161,8 +161,32 @@ h3 {
 }
 
 #hangman {
-	background-image: url(assets/images/portfolio/hangman.jpg);
-	background-position: right top;
+	background-image: url(../images/portfolio/hangman.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+#rpgGame {
+	background-image: url(../images/portfolio/rpgGame.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+#trivia {
+	background-image: url(../images/portfolio/trivia.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+#widget {
+	background-image: url(../images/portfolio/widget.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+#rps {
+	background-image: url(../images/portfolio/rps.jpg);
+	background-position: center;
 	background-repeat: no-repeat;
 }
 
