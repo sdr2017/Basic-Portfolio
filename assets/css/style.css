@@ -160,6 +160,12 @@ h3 {
 	position: relative;
 }
 
+#hangman {
+	background-image: url(assets/images/portfolio/hangman.jpg);
+	background-position: right top;
+	background-repeat: no-repeat;
+}
+
 .title {
 	font-family: 'Georgia', 'Times', 'Times New Roman', serif;
 	font-size: 22px;
@@ -182,6 +188,7 @@ h3 {
 	border: 1px solid #ddd;
 	margin-bottom: 10px;
 	font: 14px 'Arial', 'Helvetica Neue', 'Helvetica', sans-serif;
+	text-indent: 10px;
 }
 
 textarea {
