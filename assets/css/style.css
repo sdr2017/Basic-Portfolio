@@ -143,10 +143,13 @@ h3 {
 #pic {
 	width: 200px;
 	height: 150px;
-	overflow: hidden;
-	clip: rect(0px,200px,150px,0px);
 	float: left;
-	padding-right: 30px;
+	margin: 0px 30px 0px 0px;
+	background-image: url(../images/pic-with-wu.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 0px -15px;
 }
 
 /* POTFOLIO PAGE */
